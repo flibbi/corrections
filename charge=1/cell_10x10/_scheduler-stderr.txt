@@ -1,0 +1,1070 @@
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD628C1F495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B32A2B55495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AED2E561495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE9722D1495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B842448C495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B43E6F0A495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFFA3B1A495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8BE550C495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE3B5E69495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B12F8D3F495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B41F985B495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B64E20E3495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B131562A495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF4766C6495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+srun: error: f360: tasks 59-60,64,74,79-80,82: Exited with exit code 41
+srun: Terminating job step 4014755.0
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+
+Stack trace terminated abnormally.
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+
+Stack trace terminated abnormally.
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+
+Stack trace terminated abnormally.
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+
+Stack trace terminated abnormally.
+slurmstepd: error: *** STEP 4014755.0 ON f354 CANCELLED AT 2020-03-06T14:39:13 ***
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ACC4C3095D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACC4C83A495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B336C35A5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1E3  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B336C88B495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B1DEFBE25D0  Unknown               Unknown  Unknown
+pw.x               000000000076C135  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1DF0113495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B372DDF15D0  Unknown               Unknown  Unknown
+pw.x               000000000076C21B  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B372E322495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AAB1DDF25D0  Unknown               Unknown  Unknown
+pw.x               000000000076C202  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAB1E323495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B104DBAD5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C23E  addusforce_g_             140  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B104E0DE495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B938DEBB5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C21B  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B938E3EC495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA60768C5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1ED  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA607BBD495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B20683A25D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B20688D3495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B3152DF25D0  Unknown               Unknown  Unknown
+pw.x               000000000076C232  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3153323495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AABEA2C55D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AABEA7F6495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B160B47D5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1ED  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B160B9AE495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AE2DC5E15D0  Unknown               Unknown  Unknown
+pw.x               000000000076C18F  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE2DCB12495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFBB4E5F5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C232  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFBB5390495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AEBE7C2D5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C21B  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEBE815E495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9EFA6F55D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1D0  addusforce_g_             135  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9EFAC26495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AC089FCF5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1E3  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC08A500495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B1D84A345D0  Unknown               Unknown  Unknown
+pw.x               000000000076C216  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1D84F65495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B98849865D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1AC  addusforce_g_             136  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9884EB7495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: severe (41): insufficient virtual memory
+Image              PC                Routine            Line        Source             
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ABC0A1785D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABC0A6A9495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B90180075D0  Unknown               Unknown  Unknown
+pw.x               000000000076C227  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9018538495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF852C2A5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF85315B495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B80CBBF75D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1A2  addusforce_g_             135  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B80CC128495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B72A87345D0  Unknown               Unknown  Unknown
+pw.x               000000000076C14C  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B72A8C65495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B8BF8BBE5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C173  addusforce_g_             135  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8BF90EF495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B3B8270F5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C211  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3B82C40495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B41705EA5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4170B1B495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9AF8F295D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1D0  addusforce_g_             135  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9AF945A495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B5681A685D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5681F99495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF4ECAB65D0  Unknown               Unknown  Unknown
+pw.x               000000000076C19D  addusforce_g_             135  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF4ECFE7495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA3CEF165D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1E3  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA3CF447495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B5DEAB3B5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5DEB06C495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B90D6C3B5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C13A  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B90D716C495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AD8881A95D0  Unknown               Unknown  Unknown
+pw.x               000000000076C13A  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD8886DA495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B424194A5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4241E7B495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B10A70D85D0  Unknown               Unknown  Unknown
+pw.x               000000000076C147  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B10A7609495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AB025CE45D0  Unknown               Unknown  Unknown
+pw.x               000000000076C21B  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB026215495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B0D04EAD5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0D053DE495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B7A13A1B5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7A13F4C495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B4DA217E5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C21B  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4DA26AF495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B37EA4935D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B37EA9C4495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B2EA669E5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C14C  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2EA6BCF495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B740EE775D0  Unknown               Unknown  Unknown
+pw.x               000000000076C216  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B740F3A8495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B33F0DC75D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1A2  addusforce_g_             135  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B33F12F8495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFEF87435D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFEF8C74495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B1E9DEA45D0  Unknown               Unknown  Unknown
+pw.x               000000000076C21B  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1E9E3D5495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B2498F7C5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B24994AD495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AC266FC05D0  Unknown               Unknown  Unknown
+pw.x               000000000076C202  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC2674F1495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ACD87E4A5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C216  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACD8837B495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AD6BD05C5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1ED  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD6BD58D495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B586A6BF5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C147  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B586ABF0495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B36F16B95D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B36F1BEA495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B93C6AFA5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B93C702B495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ACC8FF4B5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C14C  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACC9047C495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B11AF0155D0  Unknown               Unknown  Unknown
+pw.x               000000000076C158  addusforce_g_             135  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B11AF546495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ABF844B15D0  Unknown               Unknown  Unknown
+pw.x               000000000076C227  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABF849E2495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B0048BB55D0  Unknown               Unknown  Unknown
+pw.x               000000000076C22C  addusforce_g_             139  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B00490E6495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA0B43E85D0  Unknown               Unknown  Unknown
+pw.x               000000000076C14C  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA0B4919495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B210E59C5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C21B  addusforce_g_             138  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B210EACD495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B47129D05D0  Unknown               Unknown  Unknown
+pw.x               000000000076C13D  addusforce_g_             140  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4712F01495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B50485975D0  Unknown               Unknown  Unknown
+pw.x               000000000076C1F4  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5048AC8495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AB8CFB2F5D0  Unknown               Unknown  Unknown
+pw.x               000000000076C221  addusforce_g_             137  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB8D0060495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B01C66A85D0  Unknown               Unknown  Unknown
+libmkl_core.so     00002B01C13EB29F  mkl_serv_free_buf     Unknown  Unknown
+libmkl_core.so     00002B01C13FCCE6  Unknown               Unknown  Unknown
+ld-2.17.so         00002B01BF01EFBA  Unknown               Unknown  Unknown
+libc-2.17.so       00002B01C6BF0C29  Unknown               Unknown  Unknown
+libc-2.17.so       00002B01C6BF0C77  Unknown               Unknown  Unknown
+pw.x               0000000000B6F37C  Unknown               Unknown  Unknown
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B01C6BD9495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B5440CD45D0  Unknown               Unknown  Unknown
+libmkl_core.so     00002B543BA1729F  mkl_serv_free_buf     Unknown  Unknown
+libmkl_core.so     00002B543BA28CE6  Unknown               Unknown  Unknown
+ld-2.17.so         00002B543964AFBA  Unknown               Unknown  Unknown
+libc-2.17.so       00002B544121CC29  Unknown               Unknown  Unknown
+libc-2.17.so       00002B544121CC77  Unknown               Unknown  Unknown
+pw.x               0000000000B6F37C  Unknown               Unknown  Unknown
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5441205495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AC6912D05D0  Unknown               Unknown  Unknown
+libmkl_core.so     00002AC68C01329F  mkl_serv_free_buf     Unknown  Unknown
+libmkl_core.so     00002AC68C024CE6  Unknown               Unknown  Unknown
+ld-2.17.so         00002AC689C46FBA  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC691818C29  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC691818C77  Unknown               Unknown  Unknown
+pw.x               0000000000B6F37C  Unknown               Unknown  Unknown
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC691801495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ABD57A385D0  Unknown               Unknown  Unknown
+libmkl_core.so     00002ABD5277B29F  mkl_serv_free_buf     Unknown  Unknown
+libmkl_core.so     00002ABD5278CCE6  Unknown               Unknown  Unknown
+ld-2.17.so         00002ABD503AEFBA  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABD57F80C29  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABD57F80C77  Unknown               Unknown  Unknown
+pw.x               0000000000B6F37C  Unknown               Unknown  Unknown
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABD57F69495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ACD4DEAD5D0  Unknown               Unknown  Unknown
+libmkl_core.so     00002ACD48BF029F  mkl_serv_free_buf     Unknown  Unknown
+libmkl_core.so     00002ACD48C01CE6  Unknown               Unknown  Unknown
+ld-2.17.so         00002ACD46823FBA  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACD4E3F5C29  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACD4E3F5C77  Unknown               Unknown  Unknown
+pw.x               0000000000B6F37C  Unknown               Unknown  Unknown
+pw.x               0000000000BBBB3C  Unknown               Unknown  Unknown
+pw.x               000000000076BC97  addusforce_g_             121  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACD4E3DE495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+pw.x               0000000000B7A28E  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B5ED64A55D0  Unknown               Unknown  Unknown
+pw.x               000000000076C14C  addusforce_g_             134  addusforce.f90
+pw.x               000000000069C4CF  force_us_                 113  force_us.f90
+pw.x               00000000004A6572  forces_                    94  forces.f90
+pw.x               0000000000540348  run_pwscf_                133  run_pwscf.f90
+pw.x               0000000000406E7C  MAIN__                     56  pwscf.f90
+pw.x               0000000000406BAE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5ED69D6495  __libc_start_main     Unknown  Unknown
+pw.x               0000000000406AA9  Unknown               Unknown  Unknown
+srun: error: f358: tasks 28,30: Exited with exit code 41
+srun: error: f358: tasks 47,52,54: Exited with exit code 1
+srun: error: f354: tasks 0-1,6,20-21,23,26: Exited with exit code 41
+srun: error: f354: tasks 2-5,7-19,22,24-25,27: Exited with exit code 1
+srun: error: f360: tasks 56-58,61-63,65-73,75-78,81,83: Exited with exit code 1
+srun: error: f358: tasks 29,31-46,48-51,53,55: Exited with exit code 1

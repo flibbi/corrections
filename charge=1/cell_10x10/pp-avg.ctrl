@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --no-requeue
+#SBATCH --job-name="pp"
+#SBATCH --get-user-env
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=28
+#SBATCH --time=00:10:00
+ulimit -s unlimited
+srun -n 28 /home/libbi/qe-6.1.0/bin/pp.x < pp_V.in > pp_V.out
+srun -n 28 /home/libbi/qe-6.1.0/bin/pp.x < pp_rho.in > pp_rho.out
+srun -n 1 /home/libbi/qe-6.1.0/bin/average.x < avg_V.in > avg_V.out
+srun -n 1 /home/libbi/qe-6.1.0/bin/average.x < avg_rho.in > avg_rho.out

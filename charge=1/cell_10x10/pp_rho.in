@@ -1,0 +1,6 @@
+&INPUTPP
+ prefix = 'aiida'
+ outdir = './out/'
+ filplot = 'rho'
+ plot_num = 0
+/

@@ -1,0 +1,6 @@
+&INPUTPP
+ prefix = 'aiida'
+ outdir = './out/'
+ filplot = 'V_el'
+ plot_num = 11
+/
